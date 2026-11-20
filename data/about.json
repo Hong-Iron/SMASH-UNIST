@@ -1,0 +1,34 @@
+{
+ "region": "울산 울주군",
+ "nameEn": "Ulsan National Institute of Science and Technology",
+ "added": "2026-10-27T21:00",
+ "rank": 76,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "UOU",
+   "campus": "울산대학교",
+   "km": 6.7
+  },
+  {
+   "code": "CHOONHAE",
+   "campus": "춘해보건대학교",
+   "km": 12.8
+  },
+  {
+   "code": "YOUNGSAN",
+   "campus": "영산대학교 양산캠퍼스",
+   "km": 16.5
+  },
+  {
+   "code": "UC",
+   "campus": "울산과학대학교 동부캠퍼스",
+   "km": 22.1
+  },
+  {
+   "code": "DIST",
+   "campus": "동원과학기술대학교",
+   "km": 27.9
+  }
+ ]
+}
